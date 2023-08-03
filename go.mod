@@ -1,4 +1,4 @@
-module github.com/bbredesen/go-vk
+module github.com/MineGame159/go-vk
 
 go 1.18
 
