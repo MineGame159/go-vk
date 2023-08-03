@@ -35,7 +35,7 @@ func max(nums ...int) int {
 // Error implements the error interface
 // TODO: A way for commands to indicate if the Result code is an error for that command, or an unexpected return value?
 func (r Result) Error() string {
-	return r.String()
+	return "todo"
 }
 
 type vkCommand struct {
